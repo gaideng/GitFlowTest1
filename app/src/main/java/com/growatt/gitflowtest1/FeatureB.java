@@ -7,4 +7,5 @@ package com.growatt.gitflowtest1;
  */
 
 public class FeatureB {
+    //修复bug B
 }
