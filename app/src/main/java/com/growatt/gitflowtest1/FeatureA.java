@@ -9,4 +9,5 @@ package com.growatt.gitflowtest1;
 public class FeatureA {
     //修复bug FeatureA
     //修复bugA2
+    //紧急修复bugA1.0,1
 }
