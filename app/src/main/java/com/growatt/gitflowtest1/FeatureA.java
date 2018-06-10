@@ -8,4 +8,5 @@ package com.growatt.gitflowtest1;
 
 public class FeatureA {
     //修复bug FeatureA
+    //修复bugA2
 }
